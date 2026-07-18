@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --font-inter: "Inter", sans-serif;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+html {
+  font-family: var(--font-inter, sans-serif);
+}
+
+body {
+  @apply text-neutral-900 bg-white;
+}
