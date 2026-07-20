@@ -169,7 +169,7 @@ const id = {
         description: "Kreator visual di balik konten-konten estetik dan on-brand untuk klien kami.",
         initial: "DA",
         image: "/team/devandro.png",
-        tag: "Gravpich Design",
+        
       },
       {
         name: "Bima Sakti",
