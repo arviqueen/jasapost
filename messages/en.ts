@@ -168,7 +168,7 @@ const en: Dictionary = {
         description: "The creative mind behind our clients' aesthetic, on-brand visual content.",
         initial: "DA",
         image: "/team/devandro.png",
-        tag: "Gravpich Design",
+        
       },
       {
         name: "Bima Sakti",
