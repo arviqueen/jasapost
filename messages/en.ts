@@ -222,7 +222,7 @@ const en: Dictionary = {
     subheadline:
       "Contact us now for a free consultation. Our team will reply within 24 hours.",
     cta: "Chat on WhatsApp",
-    phone: "0852-0855-5552",
+    phone: "0811-528-750",
     email: "Or send an email to",
     emailAddress: "halo@jasapost.com",
     addressLabel: "Our Office",
