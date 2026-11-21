@@ -2,9 +2,9 @@ import type { Dictionary } from "./id";
 
 const en: Dictionary = {
   meta: {
-    title: "jasapost.com — Social Media Management Services",
+    title: "jasapost.com — Social Media Management & Video Clipping Services",
     description:
-      "Professional social media management for your business. Daily content, scheduled posts, and monthly reports — all handled for you.",
+      "Professional social media management for your business — daily content, scheduled posts, monthly reports, and Video Clipper: long videos turned into short, viral-ready clips.",
   },
   nav: {
     clipper: "Clipper",

@@ -3,9 +3,9 @@ export { WA_NUMBER };
 
 const id = {
   meta: {
-    title: "jasapost.com — Jasa Manajemen Media Sosial",
+    title: "jasapost.com — Jasa Kelola Media Sosial & Video Clipper untuk UKM",
     description:
-      "Kelola media sosial bisnis Anda secara profesional. Konten harian, jadwal posting, dan laporan bulanan — semua kami urus.",
+      "Kelola media sosial bisnis Anda secara profesional — konten harian, jadwal posting, laporan bulanan, dan Video Clipper: video panjang jadi klip pendek siap viral.",
   },
   nav: {
     clipper: "Clipper",
