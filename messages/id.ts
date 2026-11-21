@@ -65,6 +65,18 @@ const id = {
         description:
           "Reels, foto produk, dan story yang menarik perhatian dan mendorong interaksi.",
       },
+      {
+        icon: "⚙️",
+        title: "Otomasi n8n",
+        description:
+          "Posting otomatis, notifikasi pesanan, dan integrasi antar aplikasi dengan n8n — tanpa kerja manual berulang. Mulai Rp 1.500.000 per workflow.",
+      },
+      {
+        icon: "🖥️",
+        title: "Setup Server & Self-Hosting",
+        description:
+          "Instalasi Immich, n8n, dan aplikasi self-hosted lain di server Anda, lengkap dengan akses aman via Tailscale. Mulai Rp 1.000.000 per setup.",
+      },
     ],
   },
   pricing: {
@@ -214,6 +226,10 @@ const id = {
       {
         q: "Apakah ada kontrak jangka panjang?",
         a: "Tidak ada kontrak jangka panjang yang mengikat. Anda bisa berhenti berlangganan kapan saja dengan pemberitahuan 14 hari sebelumnya.",
+      },
+      {
+        q: "Bisakah jasapost membantu otomasi dan server untuk bisnis saya?",
+        a: "Bisa. Selain kelola media sosial, kami menyediakan jasa otomasi n8n (posting otomatis, notifikasi, integrasi aplikasi) dan setup server self-hosting seperti Immich dan n8n di server milik Anda. Hubungi kami via WhatsApp untuk konsultasi dan penawaran.",
       },
     ],
   },
