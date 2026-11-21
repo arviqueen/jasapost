@@ -1,4 +1,4 @@
-const WA_NUMBER = "6285208555552";
+const WA_NUMBER = "62811528750";
 export { WA_NUMBER };
 
 const id = {
@@ -223,7 +223,7 @@ const id = {
     subheadline:
       "Hubungi kami sekarang dan dapatkan konsultasi gratis. Tim kami akan membalas dalam 1×24 jam.",
     cta: "Chat via WhatsApp",
-    phone: "0852-0855-5552",
+    phone: "0811-528-750",
     email: "Atau kirim email ke",
     emailAddress: "halo@jasapost.com",
     addressLabel: "Alamat Kantor",
