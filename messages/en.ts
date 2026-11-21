@@ -64,6 +64,18 @@ const en: Dictionary = {
         description:
           "Reels, product photos, and stories that capture attention and drive interaction.",
       },
+      {
+        icon: "⚙️",
+        title: "n8n Automation",
+        description:
+          "Automated posting, order notifications, and app integrations with n8n — no more repetitive manual work. From Rp 1,500,000 per workflow.",
+      },
+      {
+        icon: "🖥️",
+        title: "Server Setup & Self-Hosting",
+        description:
+          "Immich, n8n, and other self-hosted apps installed on your own server, with secure remote access via Tailscale. From Rp 1,000,000 per setup.",
+      },
     ],
   },
   pricing: {
@@ -213,6 +225,10 @@ const en: Dictionary = {
       {
         q: "Is there a long-term contract?",
         a: "No binding long-term contracts. You can cancel anytime with 14 days' notice.",
+      },
+      {
+        q: "Can jasapost help with automation and servers for my business?",
+        a: "Yes. Alongside social media management, we offer n8n automation (scheduled posting, notifications, app integrations) and self-hosting setup such as Immich and n8n on your own server. Contact us on WhatsApp for a consultation and a quote.",
       },
     ],
   },
