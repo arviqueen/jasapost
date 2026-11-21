@@ -25,20 +25,6 @@ export async function generateMetadata({ params }: Omit<Props, "children">): Pro
       siteName: "jasapost.com",
       locale: locale === "id" ? "id_ID" : "en_US",
       type: "website",
-      images: [
-        {
-          url: "https://jasapost.com/og-image.jpg",
-          width: 1200,
-          height: 630,
-          alt: "jasapost.com",
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: dict.meta.title,
-      description: dict.meta.description,
-      images: ["https://jasapost.com/og-image.jpg"],
     },
     alternates: {
       canonical: `https://jasapost.com/${locale}`,
