@@ -241,7 +241,7 @@ const id = {
     cta: "Chat via WhatsApp",
     phone: "0811-528-750",
     email: "Atau kirim email ke",
-    emailAddress: "halo@jasapost.com",
+    emailAddress: "hello@jasapost.com",
     addressLabel: "Alamat Kantor",
     address: {
       street: "Kel. Way Hui, Kec. Jatiagung",

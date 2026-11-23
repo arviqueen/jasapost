@@ -240,7 +240,7 @@ const en: Dictionary = {
     cta: "Chat on WhatsApp",
     phone: "0811-528-750",
     email: "Or send an email to",
-    emailAddress: "halo@jasapost.com",
+    emailAddress: "hello@jasapost.com",
     addressLabel: "Our Office",
     address: {
       street: "Kel. Way Hui, Kec. Jatiagung",
